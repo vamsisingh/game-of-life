@@ -12,6 +12,6 @@ target
 *.ipr
 *.iws
 *.versionsBackup
-
+vamsi:
 *.iml
 .DS_Store
